@@ -3,8 +3,7 @@ import re
 
 # Sources: Jaha se channels dhundne hain
 SOURCE_URLS = [
-    "https://iptv-org.github.io/iptv/countries/in.m3u",
-    "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/master/tv/in.m3u"
+    "https://raw.githubusercontent.com/bugsfreeweb/LiveTVCollector/refs/heads/main/LiveTV/India/LiveTV.m3u"
 ]
 
 # --- MANUAL LIST (WHITELIST) ---
