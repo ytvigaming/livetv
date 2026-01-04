@@ -5,3 +5,5 @@ http://206.212.244.47:8080/dwayne.usa@hotmail.com/9MGPKFX7XC/125809
 http://87.255.35.150:18810/
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_PAL/images/LOGO_HD/image.png" group-title="Entertainment",Sony Pal (576p)
 http://163.61.227.29:8000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB (576p)
+http://103.167.255.18:8085/play/a0k8/index.m3u8
