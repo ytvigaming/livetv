@@ -6,14 +6,14 @@ http://nocable.cc:8080/789588/114528/125809
 #EXTINF:-1 tvg-logo=" " group-title="TERRESTRIAL TV",SONY SAB HD (IND)
 http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyPAL.png" group-title="Entertainment",Sony Pal
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1771313762~exp=1771400162~acl=/*~hmac=55f2c8c60af3873042385ec7be2f3b769929e6aab945d6b593b4090149d7db4d
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyPAL_BTS/output/index.mpd?__hdnea__=st=1771356962~exp=1771443362~acl=/*~hmac=588f526d861adadd2c4afd858b96e0549bce537640ea7d0920da8f0af510a1f9
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB (720p)
 http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonySAB.png" group-title="Entertainment",Sony SAB HD
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1771313762~exp=1771400162~acl=/*~hmac=55f2c8c60af3873042385ec7be2f3b769929e6aab945d6b593b4090149d7db4d
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonySAB_BTS/output/index.mpd?__hdnea__=st=1771356962~exp=1771443362~acl=/*~hmac=588f526d861adadd2c4afd858b96e0549bce537640ea7d0920da8f0af510a1f9
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB HD (1080p)
 http://103.229.254.25:7001/play/a0db/index.m3u8
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyWAH.png" group-title="Movies",Sony Wah
-https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?__hdnea__=st=1771313762~exp=1771400162~acl=/*~hmac=55f2c8c60af3873042385ec7be2f3b769929e6aab945d6b593b4090149d7db4d
+https://jiotvmblive.cdn.jio.com/bpk-tv/SonyWAH_BTS/output/index.mpd?__hdnea__=st=1771356962~exp=1771443362~acl=/*~hmac=588f526d861adadd2c4afd858b96e0549bce537640ea7d0920da8f0af510a1f9
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_WAH/images/LOGO_HD/image.png" group-title="Movies",Sony Wah (576p)
 http://103.78.149.54:8000/play/a01p/index.m3u8
