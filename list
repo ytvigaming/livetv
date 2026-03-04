@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqAf3IGgs0onx0sUIyM48veBkyXLcGEdfy0i39N0PUldduN8I7G97kCZSc_9ydTVJ2O8T-PRkaQ722sNf-s5Xqo4hOnMFg6O9bprsvNt4LLjXy1OXjlnMTzF7qdHmIQGKoKFIJJ-riDDFaq4ioyGiLEAosoKLixViybV54KNgjlT-LsBlKDWvoOcHSwoM/s320/44967.png" group-title="TERRESTRIAL TV",SONY SAB HD (IND)
-http://217.20.112.199:8888/sabtvhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB (720p)
 http://103.229.254.25:7001/play/a09s/index.m3u8
 #EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SAB/images/LOGO_HD/image.png" group-title="Entertainment",Sony SAB HD (1080p)
